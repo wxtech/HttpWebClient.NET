@@ -1,0 +1,7 @@
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClientTest\bin\Debug\GeRenXing.HttpWebClientTest.exe
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClientTest\bin\Debug\GeRenXing.HttpWebClientTest.pdb
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClientTest\bin\Debug\GeRenXing.HttpWebClient.dll
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClientTest\bin\Debug\GeRenXing.HttpWebClient.pdb
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClientTest\obj\Debug\GeRenXing.HttpWebClientTest.csprojResolveAssemblyReference.cache
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClientTest\obj\Debug\GeRenXing.HttpWebClientTest.exe
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClientTest\obj\Debug\GeRenXing.HttpWebClientTest.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeRenXing.HttpWebClient", "GeRenXing.HttpWebClient\GeRenXing.HttpWebClient.csproj", "{93B55610-9017-42E7-A7D6-0B68829CE832}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{E8E20D78-C8AE-4138-BE59-3050B70291CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeRenXing.HttpWebClientTest", "GeRenXing.HttpWebClientTest\GeRenXing.HttpWebClientTest.csproj", "{9193BEC8-10E8-43AF-B0AB-7D52D69C4203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B55610-9017-42E7-A7D6-0B68829CE832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B55610-9017-42E7-A7D6-0B68829CE832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B55610-9017-42E7-A7D6-0B68829CE832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B55610-9017-42E7-A7D6-0B68829CE832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9193BEC8-10E8-43AF-B0AB-7D52D69C4203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9193BEC8-10E8-43AF-B0AB-7D52D69C4203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9193BEC8-10E8-43AF-B0AB-7D52D69C4203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9193BEC8-10E8-43AF-B0AB-7D52D69C4203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9193BEC8-10E8-43AF-B0AB-7D52D69C4203} = {E8E20D78-C8AE-4138-BE59-3050B70291CF}
+	EndGlobalSection
+EndGlobal

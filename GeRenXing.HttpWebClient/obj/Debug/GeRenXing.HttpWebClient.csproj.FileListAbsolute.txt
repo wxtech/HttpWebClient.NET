@@ -1,0 +1,4 @@
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClient\bin\Debug\GeRenXing.HttpWebClient.dll
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClient\bin\Debug\GeRenXing.HttpWebClient.pdb
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClient\obj\Debug\GeRenXing.HttpWebClient.dll
+G:\Home\Git\Developer\GeRenXing.HttpWebClient\GeRenXing.HttpWebClient\obj\Debug\GeRenXing.HttpWebClient.pdb
